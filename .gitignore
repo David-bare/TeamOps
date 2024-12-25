@@ -422,6 +422,11 @@ autom4te.cache/
 tarballs/
 test-results/
 
+# database
+API/team.db-shm
+API/team.db-wal
+
+
 # Mac bundle stuff
 *.dmg
 *.app
